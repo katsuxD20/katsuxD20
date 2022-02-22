@@ -1,8 +1,22 @@
-  
-- 👋 Hi, I’m @PatKat20 and I'm 20 years.     
-- 👀 I’m interested in Tech World, love making new things using several languages, i'm still learning so my knowledge is intermediate. I made already some projects with HTML, CSS, JS, Java and Python..
-- 🌱 I’m currently studying analysis and development of system and i'm in the 3rd period of college.   
-![D-Tx7eJXsAAkk1a-removebg-preview](https://user-images.githubusercontent.com/100157955/155158547-5c393667-d900-4d34-8595-561071b45492.png)
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/100157955/155163094-357f16aa-9b5f-49a3-b085-92ef45e094d1.gif" width="30px"> <strong>Hello! Helloo!</strong>
+	<hr>
+</div>
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/100157955/155159407-aaa287e0-cb49-4589-9154-9f2c3f14c2dd.gif">
+	<hr>
+</div>
+<p align="center">
+-👋 Hey, doing okay? I'm @PatKat20 and is so good to see you here.      
+</p>
+<p align="center">
+	-🎈I'm a <strong>Junior Developer</strong> and I always here to help you solve a problem. So you can call me whenever you want, as long as i'm not busy ;)<br>
+	-👀 I’m interested in Tech World, love making new things using several languages, i'm still learning so my knowledge is intermediate. I made already some projects with HTML, CSS, JS, Java and Python	
+	-Actually i'm studying in Analysis and Development of System doing my 3rd period at college. 
+</p>
+
+
 
 
 <!---
