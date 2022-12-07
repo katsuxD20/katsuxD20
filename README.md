@@ -13,7 +13,7 @@
 -👋 Hey, doing okay? I'm @PatKat20 and is so good to see you here.      
 </p>
 <p align="center">
-	-🎈I'm a <strong>Junior Developer</strong> and I always here to help you solve a problem. So you can call me whenever you want, as long as i'm not busy ;)<br>
+	-🎈I'm a <strong>Developer</strong> and I always here to help you solve a problem. So you can call me whenever you want, as long as i'm not busy ;)<br>
 	-👀 I’m interested in Tech World, love making new things using several languages, i'm still learning so my knowledge is intermediate. I made already some projects with HTML, CSS, JS, Java and Python	
 	-Actually i'm studying in Analysis and Development of System doing my 3rd period at college. 
 </p>
