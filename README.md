@@ -17,6 +17,8 @@
 	-👀 I’m interested in Tech World, love making new things using several languages, i'm still learning so my knowledge is intermediate. I made already some projects with HTML, CSS, JS, Java and Python	
 	-Actually i'm studying in Analysis and Development of System doing my 3rd period at college. 
 </p>
+
+<hr>
 <details>
 	<summary>GitHub Statistics</summary>
 	<div align="center">
@@ -31,7 +33,7 @@
 	  <img height="400" src="https://wakatime.com/share/@096df7a9-014a-4030-8cf8-87712a6c4c5c/8aa38c2c-5519-4c06-a055-ebf500989923.svg"/>
 	</div>
 </details>	
-	
+<hr>	
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
