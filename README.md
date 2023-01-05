@@ -17,13 +17,20 @@
 	-👀 I’m interested in Tech World, love making new things using several languages, i'm still learning so my knowledge is intermediate. I made already some projects with HTML, CSS, JS, Java and Python	
 	-Actually i'm studying in Analysis and Development of System doing my 3rd period at college. 
 </p>
-
-<div align="center">
-  <a href="https://github.com/PatKat20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatKat20&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatKat20&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-
+<details>
+	<summary>GitHub Statistics</summary>
+	<div align="center">
+	  <a href="https://github.com/PatKat20">
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatKat20&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatKat20&layout=compact&langs_count=7&theme=jolly"/>
+	</div>
+</details>
+<details>
+	<summary>Language Statistics</summary>
+	<div align="center">
+	  <img height="400" src="https://wakatime.com/share/@096df7a9-014a-4030-8cf8-87712a6c4c5c/8aa38c2c-5519-4c06-a055-ebf500989923.svg"/>
+	</div>
+</details>	
 	
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
