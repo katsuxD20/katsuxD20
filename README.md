@@ -35,6 +35,17 @@
 </details>	
 <hr>	
 <!--START_SECTION:waka-->
+
+```text
+From: 03 January 2023 - To: 05 January 2023
+
+Total Time: 10 hrs 23 mins
+
+JavaScript   7 hrs 12 mins   >>>>>>>>>>>>>>>>>--------   69.46 %
+CSS          1 hr 34 mins    >>>>---------------------   15.20 %
+Other        1 hr 6 mins     >>>----------------------   10.74 %
+```
+
 <!--END_SECTION:waka-->
 
 
