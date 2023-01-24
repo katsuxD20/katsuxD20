@@ -10,7 +10,7 @@
 
 
 <p align="center">
--👋 Hey, doing okay? I'm @katsuxD20 and is so good to see you here.      
+-👋 Hey, doing okay? I'm @patrick-ddeus and is so good to see you here.      
 </p>
 <p align="center">
 	-🎈I'm a <strong>Developer</strong> and I always here to help you solve a problem. So you can call me whenever you want, as long as i'm not busy ;)<br>
@@ -22,9 +22,9 @@
 <details>
 	<summary>GitHub Statistics</summary>
 	<div align="center">
-	  <a href="https://github.com/katsuxD20">
-	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katsuxD20&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuxD20&layout=compact&langs_count=7&theme=jolly"/>
+	  <a href="https://github.com/patrick-ddeus">
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-ddeus&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-ddeus&layout=compact&langs_count=7&theme=jolly"/>
 	</div>
 </details>
 <details>
@@ -50,6 +50,6 @@ Other        2 hrs 37 mins   >>>----------------------   10.51 %
 
 
 <!---
-katsuxD20/katsuxD20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+patrick-ddeus/patrick-ddeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
