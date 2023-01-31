@@ -33,20 +33,6 @@
 	  <img height="400" src="https://wakatime.com/share/@096df7a9-014a-4030-8cf8-87712a6c4c5c/8aa38c2c-5519-4c06-a055-ebf500989923.svg"/>
 	</div>
 </details>	
-<hr>	
-<!--START_SECTION:waka-->
-
-```text
-From: 03 January 2023 - To: 07 January 2023
-
-Total Time: 24 hrs 58 mins
-
-JavaScript   19 hrs 11 mins  >>>>>>>>>>>>>>>>>>>------   76.83 %
-Other        2 hrs 37 mins   >>>----------------------   10.51 %
-```
-
-<!--END_SECTION:waka-->
-
 
 
 <!---
