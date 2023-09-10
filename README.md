@@ -70,6 +70,8 @@
 ### How can you reach me
 ✉ patrickdev4@gmail.com
 
+### Stats 
+
 <details>
 	<summary>GitHub Statistics</summary>
 	<div align="center">
