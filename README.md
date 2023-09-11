@@ -9,8 +9,8 @@
 </div>
 
 
-<p align="center">
--👋 Hey, doing okay? I'm @patrick-ddeus and is so good to see you here.      
+<p align="left">
+-👋 My name is Patrick, and I am a 21-year-old full-stack developer. I have a strong passion for technology and an insatiable curiosity for learning. Over the years, I've embarked on a journey to explore the world of programming, constantly seeking opportunities to expand my knowledge and skills.      
 </p>
 <p align="left">
 • I'm a <strong>Developer</strong> and I always here to help you solve a problem. So you can call me whenever you want ;)<br>
